@@ -15,11 +15,3 @@ birthday_game/
       phone_off.png
       phone_on.png
       cake_candles.gif
-
-Что делать:
-
-1. Положи свои картинки в папку assets
-2. Назови их как указано выше
-3. Открой index.html
-
-Игра сразу запустится.
